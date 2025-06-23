@@ -40,10 +40,9 @@ cd memo
 # Install dependencies
 npm install
 
-# Set up environment variables
+### Set up environment variables
 touch .env
-# Add your MongoDB URI to .env:
-# MONGO_URI=mongodb+srv://<user>:<password>@cluster.mongodb.net/memo
-
-# Start the dev server
+### Add your MongoDB URI to .env:
+### MONGO_URI=mongodb+srv://<user>:<password>@cluster.mongodb.net/memo
+### Start the dev server
 npm run dev
