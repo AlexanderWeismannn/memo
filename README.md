@@ -4,24 +4,23 @@
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
-### 🌐 Frontend
+### Frontend
 - **React** – Component-based UI
 - **Tailwind CSS** – Utility-first CSS for rapid styling
 - **DaisyUI** – Tailwind UI components for clean design
 - **react-hot-toast** – Toast notifications for user feedback
 - **Axios** – Promise-based HTTP client for API calls
 
-### 🛠 Backend
+### Backend
 - **Node.js** – Server-side JavaScript
 - **Express.js** – REST API framework
 - **MongoDB** – NoSQL database for storing notes
 - **Mongoose** – ODM for MongoDB, handles schemas and queries
 
 ---
-## 🧠 Features
-
+## Features
 - 🗒️ Create, read, update, and delete notes (CRUD)
 - 🎨 Beautiful UI using Tailwind and DaisyUI
 - 🔄 Real-time UI feedback with `react-hot-toast`
@@ -29,13 +28,10 @@
 - ⚡ Fast and responsive layout
 
 ---
-
-## 🛠️ Setup Instructions
-
+## Setup Instructions
 ### 🔧 Prerequisites
 - Node.js and npm installed
 - MongoDB instance (local or Atlas)
-
 ### 📦 Installation
 # Clone the repo
 git clone https://github.com/YourUsername/memo.git
