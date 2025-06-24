@@ -2,6 +2,13 @@
 
 **Memo** is a custom Thinkboard-style notes application built using the **MERN stack**. It allows users to create, edit, and delete notes in a clean, responsive interface. Designed for speed and simplicity, it features real-time UI feedback and beautiful styling.
 
+## 🌐 Live Demo
+
+[Visit the Website](https://memo-vsk6.onrender.com)
+
+> ⚠️ **Note:** This app is hosted on the free tier of [Render.com](https://render.com), which means it may take **up to 50 seconds to spin up** if inactive.
+
+
 ---
 
 ## Tech Stack
